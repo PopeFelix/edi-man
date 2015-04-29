@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "EDI Man": {
+      "applicationId": "zjxS1kxTVG133Dnduei9V2V4a3yQbsABoht9jFgc",
+      "masterKey": "XkekKHe27lkqlUxCma4lE1JPawQLnVeVwFmXoLyj"
+    },
+    "_default": {
+      "link": "EDI Man"
+    }
+  }
+}
